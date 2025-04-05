@@ -547,7 +547,7 @@ body {
 
 .advantages {
   padding: 55px 0px 40px;
-  background-image: url(/img/adv-fon.jpg);
+  background-image: url(../img/adv-fon.jpg);
   background-repeat: no-repeat;
   background-position: center;
   min-height: 285px;
