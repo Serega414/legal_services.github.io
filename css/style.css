@@ -411,7 +411,7 @@ body {
 
 .form_inner {
   padding-bottom: 40px;
-  background-image: url(img/form-fon.png);
+  background-image: url(../img/form-fon.png);
   min-height: 460px;
   background-repeat: no-repeat;
   background-position: bottom right;
