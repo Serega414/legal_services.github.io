@@ -373,7 +373,7 @@ body {
 }
 
 .about {
-  background-image: url(img/about-fon.jpg);
+  background-image: url(../img/about-fon.jpg);
   background-size: cover;
   background-position: center;
   min-height: 300px;
